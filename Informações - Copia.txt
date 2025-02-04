@@ -1,6 +1,0 @@
-No dia 27/01/2025 - Foi criada uma tabela Status_Pedido 
-Foi efetuado o relacionamento entre item_Pedido e Status.
-
-
-DataMétrica - Estouro de atendimento maos de 10.000 - atendimento via chat
-
