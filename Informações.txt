@@ -5,4 +5,5 @@ Foi efetuado o relacionamento entre item_Pedido e Status.
 DataMétrica - Estouro de atendimento maos de 10.000 - atendimento via chat
 
 dia 04/02/2025 - 15:00
+dia 04/02/2025 - 16:22
 
